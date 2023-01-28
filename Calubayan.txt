@@ -1,0 +1,1 @@
+Egg launching (All egg functions), Platform landing, Lives and game over, Canvas setting function (All canvas designs)

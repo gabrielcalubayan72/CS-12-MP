@@ -1,0 +1,2 @@
+Platform placement and movement (All platform functions), Next stage panning (Transition functions), Refactoring and reorganizing of code
+
